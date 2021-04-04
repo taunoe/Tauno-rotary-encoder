@@ -61,3 +61,7 @@ void loop() {
 ## Screenshot
 
 ![Example screenshot](doc/re.png)
+
+__
+
+Copyright Tauno Erik 2021 [taunoerik.art](https://taunoerik.art/)
