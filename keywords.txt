@@ -1,0 +1,26 @@
+#######################################
+# Syntax Coloring Map For Tauno_rotary_encoder
+#######################################
+# Class
+#######################################
+
+Tauno_Rotary_Encoder	KEYWORD1
+
+#######################################
+# Methods and Functions
+#######################################	
+
+begin			KEYWORD2
+say_pins		KEYWORD2
+read			KEYWORD2
+speed			KEYWORD2
+button			KEYWORD2
+
+#######################################
+# Constants
+#######################################
+
+DIR_NONE		LITERAL1
+DIR_CW			LITERAL1
+DIR_CCW			LITERAL1
+
